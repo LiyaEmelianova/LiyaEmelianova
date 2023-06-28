@@ -34,8 +34,15 @@ ________________________________________________________________________________
 ### Обо мне
 
 - ⚡ Мое [резюме](https://docs.google.com/document/d/19sHMoVQCtITOfcDf-N848_0d3oCNtH7e8-mQWj0BXEE/edit#)
-  
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+ <a href="https://t.me/LiyaEmelianova">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white")>
+    </a>
+<a href="https://wa.me/79520078403">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
+<a href="mailto:liya.lev@yandex.ru">
+        <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="e-mail">
+    </a>
+<a href="https://discord.com/users/liya_emelianova">
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
