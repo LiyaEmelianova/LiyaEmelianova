@@ -2,13 +2,13 @@
 ### Меня зовут Лия Емельянова, и я Аналитик данных / Data Analyst.
 ____________________________________________________________________________________________________
  <p align="left">
+ <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
- <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+ <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
- <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   
@@ -18,7 +18,7 @@ ________________________________________________________________________________
 - Сбор и анализ требований заказчиков к отчётности
 - Обработка и визуализация данных из разных источников, составление интерактивных дашбордов с помощью Google Data Studio, Yandex DataLens
 - Использование PostgreSQL для хранения, обработки и использования данных
-- Написание программного кода на языке Python, в том числе с использованием аналитических библиотек: numpy, scipy, pandas, matplotlib, seaborn
+- Написание программного кода на языке Python, в том числе с использованием аналитических библиотек: pandas, numpy, plotly, scipy, matplotlib, seaborn
 - Умение работать с системой контроля версий Git
 
 - 👨‍🎓 Учебный [проект]() Авиаперевозки по России по SQL
