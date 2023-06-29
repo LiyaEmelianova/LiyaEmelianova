@@ -36,9 +36,9 @@ ________________________________________________________________________________
 
 
 ### Сертификаты
-- [Аналитик данных]()
-- [Визуализация данных: от скучных графиков к интерактивным дашбордам]()
-- [Основы SQL]()
+- [Аналитик данных](https://github.com/LiyaEmelianova/LiyaEmelianova/blob/main/certificate_DataAnalyst.pdf)
+- [Визуализация данных: от скучных графиков к интерактивным дашбордам](https://github.com/LiyaEmelianova/LiyaEmelianova/blob/main/certificate_VisualDash.pdf)
+- [Основы SQL](https://github.com/LiyaEmelianova/LiyaEmelianova/blob/main/certificate_SQL.pdf)
 
 
 ### Обо мне
