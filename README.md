@@ -9,8 +9,12 @@ ________________________________________________________________________________
  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
+ <img src="https://img.shields.io/badge/Matplotlib-%23f2f2f2.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+ <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+ <img src="https://img.shields.io/badge/Yandex_DataLens-%23f2f2f2.svg?style=for-the-badge&logo=powerbi&logoColor=blue" />
+ <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" />
   
 ___________________________________________________________________________________________________________________
   
@@ -21,7 +25,9 @@ ________________________________________________________________________________
 - Написание программного кода на языке Python, в том числе с использованием аналитических библиотек: pandas, numpy, plotly, scipy, matplotlib, seaborn
 - Умение работать с системой контроля версий Git
 
-- 👨‍🎓 Учебный [проект]() Авиаперевозки по России по SQL
+## Мои учебные проекты:
+
+- 👨‍🎓 SQL(Postgre) [Авиаперевозки по России по SQL](https://github.com/LiyaEmelianova/sql_final) 
 - 👨‍🎓 Учебный [проект]() Онлайн кинотеатр по Python 
 - 👨‍🎓 Дипломный [проект] () по профессии Аналитик данных
 
